@@ -2,3 +2,24 @@
     height: 100px;
     width: 100px;
 }
+.snac{
+    border-color: green;
+}
+.first{
+    background-image: url(snack.png);
+    background-size: cover;
+    height: 300px;
+    width: 300px;
+    position: relative;
+}
+.second{
+    font-size: 3rem;
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    align-items: center;
+    justify-content: center;
+
+}
